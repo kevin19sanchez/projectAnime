@@ -1,0 +1,92 @@
+[
+{
+	"id":1,
+	"titulo": "Sword Art Online",
+	"genero": "Fantasia",
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3965832_640px.jpg?1528578016"
+},
+{
+	"id":2,
+	"titulo": "Nisekoi",
+	"genero": "Romance",
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/4490087_640px.jpg?1528578016"
+},
+{
+	"id":3,
+	"titulo": "Naruto",
+	"genero": "Accion",
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907143_640px.jpg?1528578016"
+},
+{
+	"id":4,
+	"titulo": "Dragon Ball Z",
+	"genero": "Aventura",
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907142_640px.jpg?1528578016"
+},
+{
+	"id":5,
+	"titulo": "Mirai Nikki",
+	"genero": "Misterio",
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3934107_640px.jpg?1528578016"
+},
+{
+	"id":6,
+	"titulo": "Death Note",
+	"genero": "Psicologico",
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907144_640px.jpg?1528578016"
+},
+{
+    "id":7,
+    "titulo": "Date a Live",
+    "genero": "Comedia",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4490090_640px.jpg?1528578016"
+},
+{
+    "id":8,
+    "titulo": "Inuyasha",
+    "genero": "Accion",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907147_640px.jpg?1528578016"
+},
+{
+    "id":9,
+    "titulo": "Shingeki no kyojin",
+    "genero": "Drama",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4490072_640px.jpg?1528578016"
+},
+{
+    "id":10,
+    "titulo": "Bleach",
+    "genero": "Sobrenatural",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907146_640px.jpg?1528578016"
+},
+{
+    "id":11,
+    "titulo": "Fullmetal Alchemist",
+    "genero": "Ciencia Ficcion",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907158_640px.jpg?1528578016"
+},
+{
+    "id":12,
+    "titulo": "Digimon",
+    "genero": "Aventura",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907171_640px.jpg?1528578016"
+},
+{
+    "id":13,
+    "titulo": "One-Punch Man",
+    "genero": "Comedia",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4864008_640px.jpg?1528578016"
+},
+{
+    "id":14,
+    "titulo": "Samurai X",
+    "genero": "Lucha",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907159_640px.jpg?1528578016"
+},
+{
+    "id":15,
+    "titulo": "Ansatsu Kyoushitsu",
+    "genero": "Escolares",
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/5096340_640px.jpg?1528578016"
+}
+]
