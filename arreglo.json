@@ -24,7 +24,7 @@
 	"id":4,
 	"titulo": "Dragon Ball Z",
 	"genero": "Aventura",
-	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907142_640px.jpg?1528578016",,
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907142_640px.jpg?1528578016",
 	"descripcion": "Dragon Ball Z is a Japanese anime television series produced by Toei Animation. It is the sequel to Dragon Ball and adapts the latter 325 chapters of the original 519-chapter Dragon Ball manga series created by Akira Toriyama which ran in Weekly Shōnen Jump from 1988 to 1995"
 },
 {
@@ -38,60 +38,69 @@
 	"id":6,
 	"titulo": "Death Note",
 	"genero": "Psicologico",
-	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907144_640px.jpg?1528578016"
-},
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907144_640px.jpg?1528578016",
+	"descripcion": ""
 {
     "id":7,
     "titulo": "Date a Live",
     "genero": "Comedia",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4490090_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4490090_640px.jpg?1528578016",
+	"descripcion": "Sakura Kinomoto es una pequeña niña de diez años que accidentalmente libera un conjunto de cartas que había dentro de un libro que encontró en la biblioteca de su padre. Tras esto, Kero —el guardián del libro— emerge y al enterarse de que la mayoría de las cartas conocidas como las «cartas Clow» se habían esparcido por todas partes, le hace a Sakura responsable de convertirse en una «cardcaptor» e ir en su búsqueda para evitar que ocurra una «catástrofe» en el mundo."
 },
 {
     "id":8,
     "titulo": "Inuyasha",
     "genero": "Accion",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907147_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907147_640px.jpg?1528578016",
+	"descripcion": "Hideki Motosuwa, quien decide abandonar el campo e irse a estudiar en Tokio para luego ir a la universidad, vive en una época en el que las computadoras personales han sido desarrolladas para parecer y desempeñar funciones humanas, siendo llamadas como Persocon. En su primer día en la ciudad, encuentra una de ellas tirada en la basura, tras lo cual se la lleva a su apartamento. "
 },
 {
     "id":9,
     "titulo": "Shingeki no kyojin",
     "genero": "Drama",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4490072_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4490072_640px.jpg?1528578016",
+	"descripcion": "Inuyasha es un chico híbrido (mitad humano, mitad demonio-perro) que mantiene la apariencia de un joven de 17 años aunque no se sabe exactamente su edad. Es sellado por Kikyo durante 50 años en el árbol sagrado, del cual despierta gracias a Kagome, quien, junto con sus amigos, ayuda a Inuyasha a reunir todos los fragmentos de la perla Shikon (Esfera de las Cuatro Almas), que sólo busca la perla  para convertirse en un demonio completo."
 },
 {
     "id":10,
     "titulo": "Bleach",
     "genero": "Sobrenatural",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907146_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907146_640px.jpg?1528578016",
+	"descripcion": ""
 },
 {
     "id":11,
     "titulo": "Fullmetal Alchemist",
     "genero": "Ciencia Ficcion",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907158_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907158_640px.jpg?1528578016",
+	"descripcion": "Tooru Honda es una chica que, al morir su madre, vive en una tienda de campaña sola, mientras que acaban las obras de la casa de su abuelo. También trabaja a tiempo parcial limpiando, y además continúa yendo al instituto. A pesar de todas las adversidades, ella siempre tiene una sonrisa en la boca y demuestra una enorme fuerza de voluntad. Su situación cambia cuando se da cuenta de que los terrenos donde ha situado su tienda de campaña pertenecen a Yuki Sohma, un compañero de su clase, y a su primo Shigure."
 },
 {
     "id":12,
     "titulo": "Digimon",
     "genero": "Aventura",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907171_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907171_640px.jpg?1528578016",
+	"descripcion": "En la serie nos encontraremos con 4 chicas totalmente distintas, y cada una representando a estereotipos de personajes de anime. Alli encontraremos a Konata, la chica Otaku del grupo. A Tsukasa que es la Kawaii, Kagami la chica Tsundere, y Miyuki como la chica moe del grupo. Light Yagami es un brillante estudiante japonés, aburrido y asqueado por los crímenes que cubre el mundo. Su vida cambiará por completo cuando se tope con una Death Note, un cuaderno que puede hacer que una persona muera tan sólo escribiendo su nombre y visualizando su rostro. Cuando comprueba por sí mismo lo que el Death Note puede hacer, Light decide limpiar el mundo de criminales usándolo, convirtiéndose en algo así como en el dios del nuevo mundo."
 },
 {
     "id":13,
     "titulo": "One-Punch Man",
     "genero": "Comedia",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4864008_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/4864008_640px.jpg?1528578016",
+	"descripcion": "Lo único que Yūki recuerda de su infancia es que, perdida en el invierno, fue atacada por un vampiro fuera de control, situación de la que la rescató otro vampiro, Kuran Kaname. Él la llevó con Kaien Cross, quien se convierte en su padre adoptivo y más adelante, en el director de la Academia Privada Cross."
 },
 {
     "id":14,
     "titulo": "Samurai X",
     "genero": "Lucha",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907159_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/3907159_640px.jpg?1528578016",
+	"descripcion": "Light Yagami es un brillante estudiante japonés, aburrido y asqueado por los crímenes que cubre el mundo. Su vida cambiará por completo cuando se tope con una Death Note, un cuaderno que puede hacer que una persona muera tan sólo escribiendo su nombre y visualizando su rostro. Cuando comprueba por sí mismo lo que el Death Note puede hacer, Light decide limpiar el mundo de criminales usándolo, convirtiéndose en algo así como en el dios del nuevo mundo."
 },
 {
     "id":15,
     "titulo": "Ansatsu Kyoushitsu",
     "genero": "Escolares",
-    "image": "https://st-listas.20minutos.es/images/2013-02/354787/5096340_640px.jpg?1528578016"
+    "image": "https://st-listas.20minutos.es/images/2013-02/354787/5096340_640px.jpg?1528578016",
+	"descripcion": "Para proteger a una chica del peligro, Junichi Nagase se ve obligado a besarla. Sorprendida, disgustada y sin saber qué ha ocurrido y por qué, le grita y le dice que se muera. La chica, Yuuhi Katagiri es una nueva estudiante que, para sorpresa de Junichi y su hermana pequeña Minato, será la futura esposa de Junichi debido a un matrimonio concertado. Por supuesto, eso es lo último que Yuuhi quiere. ¡La vida escolar de Junichi acaba de empezar!."
 }
 ]
