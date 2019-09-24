@@ -4,31 +4,35 @@
 	"titulo": "Sword Art Online",
 	"genero": "Fantasia",
 	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3965832_640px.jpg?1528578016",
-	"descripcion":"Ella no me ama y nunca lo ha hecho porque siempre ha escogido a los que tienen dinero y no son feos."
+	"descripcion":" Kirito, que es un BetaTester, es decir, un jugador experto que probó la versión beta del juego, está decidido a llegar al piso 100 y alcanzar la libertad. Ahora tendrá que pasar cada nivel o cada piso sin morir, con la ayuda de Asuna otra jugadora con quien formará equipo."
 },
 {
 	"id":2,
 	"titulo": "Nisekoi",
 	"genero": "Romance",
-	"image": "https://st-listas.20minutos.es/images/2013-02/354787/4490087_640px.jpg?1528578016"
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/4490087_640px.jpg?1528578016",
+	"descripcion": ""
 },
 {
 	"id":3,
 	"titulo": "Naruto",
 	"genero": "Accion",
-	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907143_640px.jpg?1528578016"
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907143_640px.jpg?1528578016",
+	"descripcion": "Naruto Uzumaki es un ninja adolescente que tiene encerrado en su interior al «Zorro de Nueve Colas» (Kyūbi no Kitsune 九尾の狐?)"
 },
 {
 	"id":4,
 	"titulo": "Dragon Ball Z",
 	"genero": "Aventura",
-	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907142_640px.jpg?1528578016"
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3907142_640px.jpg?1528578016",,
+	"descripcion": "Dragon Ball Z is a Japanese anime television series produced by Toei Animation. It is the sequel to Dragon Ball and adapts the latter 325 chapters of the original 519-chapter Dragon Ball manga series created by Akira Toriyama which ran in Weekly Shōnen Jump from 1988 to 1995"
 },
 {
 	"id":5,
 	"titulo": "Mirai Nikki",
 	"genero": "Misterio",
-	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3934107_640px.jpg?1528578016"
+	"image": "https://st-listas.20minutos.es/images/2013-02/354787/3934107_640px.jpg?1528578016",
+	"descripcion": "Yukiteru  Amano es un estudiante de secundaria baja al que le gusta escribir en su diario. Una mañana, se encuentra en su móvil el diario de su futuro yo."
 },
 {
 	"id":6,
